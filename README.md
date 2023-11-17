@@ -14,7 +14,7 @@
 
 <style type="text/css">
 p {
-color: #0000ff;
+color: #fffafa;
 font-size: 1.5em;
 }
 
@@ -165,12 +165,10 @@ p.note { display: none; }
 <a href="20231103_035.JPG" data-lightbox="abc"><img src="20231103_035.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<p>EV体験試乗</p>
-
-<p>栃木県警音楽隊</p>
-
-
-<p>栃木県警音楽隊の生演奏</p>
+<p>以下動画集</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2XNfzqNMR3I?si=56jjSLD3CHOOput0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UGtz-Q_vDkk?si=UgaLLis_ULDCVu84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cnL5MmD1daM?si=q7vb2UME-lgq0yB3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br><br><br><br><br>
 
