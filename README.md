@@ -70,7 +70,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20231112_kawachi_fest/20231112_025.png) center/cover no-repeat;
+background:url(https://torokoid.github.io/2023Nov_Thailand/20231103_035.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
