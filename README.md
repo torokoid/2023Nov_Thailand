@@ -168,6 +168,19 @@ p.note { display: none; }
 <p>以下動画集</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2XNfzqNMR3I?si=56jjSLD3CHOOput0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGtz-Q_vDkk?si=UgaLLis_ULDCVu84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<a href="https://youtube.com/shorts/EhTJ-srifZ8?feature=share" data-lightbox="abc">現地動画_1</a><br>
+
+<a href="https://youtube.com/shorts/5RdvdduCJVc?feature=share" data-lightbox="abc">現地動画_2</a><br>
+
+<a href="https://youtube.com/shorts/ow_3CdmoF6I?feature=share" data-lightbox="abc">現地動画_3</a><br>
+
+<a href="https://youtube.com/shorts/4309C--Uew4?feature=share" data-lightbox="abc">現地動画_4</a><br>
+
+<a href="https://youtube.com/shorts/w7hnPs-ZCMQ?feature=share" data-lightbox="abc">現地動画_5</a><br>
+
+<a href="https://youtube.com/shorts/GnGe4TqCLKE?feature=share" data-lightbox="abc">現地動画_6</a><br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cnL5MmD1daM?si=q7vb2UME-lgq0yB3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br><br><br><br><br>
